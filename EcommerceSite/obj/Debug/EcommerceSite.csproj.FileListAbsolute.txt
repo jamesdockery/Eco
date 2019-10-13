@@ -77,3 +77,6 @@ C:\Users\james\EcomMVCApp\ecommercesite\EcommerceSite\bin\EntityFramework.dll
 C:\Users\james\EcomMVCApp\ecommercesite\EcommerceSite\bin\EntityFramework.SqlServer.dll
 C:\Users\james\EcomMVCApp\ecommercesite\EcommerceSite\bin\EntityFramework.xml
 C:\Users\james\EcomMVCApp\ecommercesite\EcommerceSite\bin\EntityFramework.SqlServer.xml
+C:\Users\james\EcomMVCApp\Eco\EcommerceSite\obj\Debug\EcommerceSite.csprojAssemblyReference.cache
+C:\Users\james\EcomMVCApp\Eco\EcommerceSite\obj\Debug\EcommerceSite.dll
+C:\Users\james\EcomMVCApp\Eco\EcommerceSite\obj\Debug\EcommerceSite.pdb

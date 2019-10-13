@@ -50,6 +50,11 @@ namespace EcommerceSite.Controllers
             return View("UpdateCategory", cd);
         }
 
+        public ActionResult Product()
+        {
+
+        }
+
 
 
     }
